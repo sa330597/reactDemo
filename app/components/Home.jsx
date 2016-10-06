@@ -8,7 +8,7 @@ function Home() {
       <div className="col-xs-12 text-center">
         <h2 style={styles.HomePageContentHeading}>Weather Report Demo Application</h2>
         <div className="row">
-            <div className="col-md-6 col-md-offset-2">
+            <div className="col-md-7 col-md-offset-2">
                 <LocationWidgetContainer />
             </div>
         </div>
